@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Алексей Свирин](https://up.htmlacademy.ru/htmlcss-individual/2/user/1023079).
-* Наставник: `Неизвестно`.
+* Наставник: [Анна Лисененкова](https://htmlacademy.ru/profile/ankhena).
 
 ---
 
